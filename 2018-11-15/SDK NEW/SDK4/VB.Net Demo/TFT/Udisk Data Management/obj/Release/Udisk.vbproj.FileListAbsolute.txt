@@ -1,0 +1,10 @@
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\Udisk Data Management\bin\Release\Udisk.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\Udisk Data Management\bin\Release\Udisk.pdb
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\Udisk Data Management\bin\Release\Udisk.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\Udisk Data Management\obj\Release\Udisk.vbprojResolveAssemblyReference.cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\Udisk Data Management\obj\Release\UdiskData.UDiskDataMain.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\Udisk Data Management\obj\Release\UdiskData.Resources.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\Udisk Data Management\obj\Release\Udisk.vbproj.GenerateResource.Cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\Udisk Data Management\obj\Release\Udisk.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\Udisk Data Management\obj\Release\Udisk.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\Udisk Data Management\obj\Release\Udisk.pdb

@@ -1,0 +1,2 @@
+D:\WORK\PT GIAT\SmartLink-Attendance System\SDK NEW\SDK4\VB.Net Demo\IFace\AccessControl\obj\Release\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System\SDK NEW\SDK4\VB.Net Demo\IFace\AccessControl\obj\Release\AccessControl.vbproj.ResolveComReference.cache

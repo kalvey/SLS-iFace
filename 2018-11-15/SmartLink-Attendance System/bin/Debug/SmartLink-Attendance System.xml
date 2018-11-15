@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SmartLink-Attendance System
+</name>
+</assembly>
+<members>
+<member name="M:SmartLink_Attendance_System.frmAddArea.autoNumber">
+ <summary>
+ Create Auto Number Based on Latest AreaCode 
+ </summary>
+</member>
+<member name="M:SmartLink_Attendance_System.frmDeviceManagement.showDGVArea">
+ <summary>
+  Sub to populate DataGridView with data from tAreaNumber
+ </summary>
+</member>
+<member name="M:SmartLink_Attendance_System.frmDeviceManagement.showDGV">
+ <summary>
+ Sub to populate DataGridView with data from tDevice
+ </summary>
+</member>
+<member name="M:SmartLink_Attendance_System.frmEmpContract.FirstDayOfYear(System.DateTime)">
+ <summary>
+ Get first day of the specified year.
+ </summary>
+</member>
+<member name="M:SmartLink_Attendance_System.frmPopupPersonell.UpdateData">
+ <summary>
+ Using Sql Transaction to Input / Update data to tCard, tDeviceUser2, tUserExternal and tUserInternal (Used by: btnSave)
+ </summary>
+</member>
+<member name="T:SmartLink_Attendance_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SmartLink_Attendance_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SmartLink_Attendance_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
