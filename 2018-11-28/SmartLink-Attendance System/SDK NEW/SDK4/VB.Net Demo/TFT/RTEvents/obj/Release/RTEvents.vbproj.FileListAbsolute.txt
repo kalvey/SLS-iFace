@@ -1,0 +1,17 @@
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\obj\Release\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\obj\Release\RTEvents.vbproj.ResolveComReference.cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\bin\Release\RTEvents.exe.manifest
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\bin\Release\RTEvents.application
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\bin\Release\RTEvents.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\bin\Release\RTEvents.pdb
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\bin\Release\RTEvents.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\bin\Release\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\obj\Release\RTEvents.RTEvents.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\obj\Release\RTEvents.Resources.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\obj\Release\RTEvents.vbproj.GenerateResource.Cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\obj\Release\RTEvents.TrustInfo.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\obj\Release\RTEvents.exe.manifest
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\obj\Release\RTEvents.application
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\obj\Release\RTEvents.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\obj\Release\RTEvents.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\RTEvents\obj\Release\RTEvents.pdb

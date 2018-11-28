@@ -1,0 +1,260 @@
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe.config
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.pdb
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.Resources.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.splashScreen.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.GenerateResource.Cache
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.pdb
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.MainForm.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.ResolveComReference.cache
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe.licenses
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\MySql.Data.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\sqlserver.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\sqlserver.pdb
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\sqlserver.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDeviceManagement.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDateTime.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmReport.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddArea.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditArea.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmPersonell.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmPopupPersonell.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSelectDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddUser.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.SDK_Testing.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDeviceControl.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAdvReport.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe.manifest
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.application
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe.manifest
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.application
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.dgv.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe.config
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.ResolveComReference.cache
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.pdb
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe.manifest
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.application
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.pdb
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.dgv.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddArea.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddUser.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAdvReport.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDateTime.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDeviceManagement.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditArea.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmPersonell.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmPopupPersonell.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmReport.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSelectDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.MainForm.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.Resources.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.SDK_Testing.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.splashScreen.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.GenerateResource.Cache
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe.licenses
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe.manifest
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.application
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSyncDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.BackupRestore.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEmpContract.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmLogin.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmNewUser.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmMasterData.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddProject.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditProject.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmBatchPS.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\MySql.Data.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\Google.Protobuf.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\MySql.Data.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.SmartLink-Attendance System.exe.config
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEMPtoPRJ.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddSubcon.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditSC.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.pivotTest.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbprojResolveAssemblyReference.cache
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.bom.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSplash.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe.config
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.ResolveComReference.cache
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.pdb
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe.manifest
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.application
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.pdb
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\MySql.Data.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\Google.Protobuf.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\MySql.Data.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.SmartLink-Attendance System.exe.config
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.BackupRestore.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.bom.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.dgv.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddArea.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddProject.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddSubcon.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddUser.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAdvReport.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmBatchPS.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDateTime.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDeviceManagement.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditArea.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditProject.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditSC.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEmpContract.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEMPtoPRJ.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmLogin.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmMasterData.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmNewUser.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmPersonell.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmPopupPersonell.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmReport.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSelectDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSplash.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSyncDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.MainForm.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.Resources.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.pivotTest.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.SDK_Testing.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.splashScreen.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.GenerateResource.Cache
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe.licenses
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe.manifest
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.application
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbprojResolveAssemblyReference.cache
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe.config
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.ResolveComReference.cache
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.pdb
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe.manifest
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.application
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.pdb
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\MySql.Data.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\Google.Protobuf.dll
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\MySql.Data.xml
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbprojResolveAssemblyReference.cache
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.SmartLink-Attendance System.exe.config
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.BackupRestore.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.bom.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.dgv.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddArea.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddProject.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddSubcon.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddUser.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAdvReport.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmBatchPS.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDateTime.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDeviceManagement.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditArea.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditProject.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditSC.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEmpContract.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEMPtoPRJ.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmLogin.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmMasterData.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmNewUser.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmPersonell.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmPopupPersonell.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmReport.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSelectDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSplash.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSyncDevice.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.MainForm.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.Resources.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.pivotTest.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.SDK_Testing.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.splashScreen.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.GenerateResource.Cache
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe.licenses
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe.manifest
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.application
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmIdCard.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.testingForm.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSoftUser.resources
+D:\WORK\PT GIAT\SmartLink-Attendance System LocalDB Development\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditLogin.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe.config
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe.manifest
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.application
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.exe
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.pdb
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\SmartLink-Attendance System.xml
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\MySql.Data.dll
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\Google.Protobuf.dll
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\bin\Debug\MySql.Data.xml
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.SmartLink-Attendance System.exe.config
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.ResolveComReference.cache
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.BackupRestore.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.bom.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.dgv.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddArea.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddDevice.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddProject.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddSubcon.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddUser.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAdvReport.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmBatchPS.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDateTime.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDeviceManagement.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditArea.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditDevice.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditLogin.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditProject.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditSC.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEmpContract.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEMPtoPRJ.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmIdCard.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmLogin.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmMasterData.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmNewUser.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmPersonell.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmPopupPersonell.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmReport.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSelectDevice.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSoftUser.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSplash.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSyncDevice.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.MainForm.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.Resources.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.pivotTest.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.SDK_Testing.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.splashScreen.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.testingForm.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbproj.GenerateResource.Cache
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe.licenses
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe.manifest
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.application
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.exe
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.xml
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.pdb
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAddGroup.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmEditUG.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAttHistory.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmSelectSubcon.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmAbsDet.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmDetailATT.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink_Attendance_System.frmProjectATT.resources
+D:\WORK\PT GIAT\Smart Link Attendance\SmartLink-Attendance System CITRA\SmartLink-Attendance System\SmartLink-Attendance System\obj\Debug\SmartLink-Attendance System.vbprojResolveAssemblyReference.cache

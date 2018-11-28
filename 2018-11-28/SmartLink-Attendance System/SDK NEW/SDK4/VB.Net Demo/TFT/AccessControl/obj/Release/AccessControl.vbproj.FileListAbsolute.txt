@@ -1,0 +1,17 @@
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\obj\Release\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\obj\Release\AccessControl.vbproj.ResolveComReference.cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\bin\Release\AccessControl.exe.manifest
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\bin\Release\AccessControl.application
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\bin\Release\AccessControl.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\bin\Release\AccessControl.pdb
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\bin\Release\AccessControl.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\bin\Release\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\obj\Release\AccessControl.AccessControl.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\obj\Release\AccessControl.Resources.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\obj\Release\AccessControl.vbproj.GenerateResource.Cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\obj\Release\AccessControl.TrustInfo.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\obj\Release\AccessControl.exe.manifest
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\obj\Release\AccessControl.application
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\obj\Release\AccessControl.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\obj\Release\AccessControl.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AccessControl\obj\Release\AccessControl.pdb

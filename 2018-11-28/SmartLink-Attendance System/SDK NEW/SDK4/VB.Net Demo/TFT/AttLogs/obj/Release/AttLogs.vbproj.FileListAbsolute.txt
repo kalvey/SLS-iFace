@@ -1,0 +1,17 @@
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\obj\Release\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\obj\Release\AttLogs.vbproj.ResolveComReference.cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\bin\Release\AttLogs.exe.manifest
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\bin\Release\AttLogs.application
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\bin\Release\AttLogs.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\bin\Release\AttLogs.pdb
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\bin\Release\AttLogs.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\bin\Release\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\obj\Release\AttLogs.AttLogs.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\obj\Release\AttLogs.Resources.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\obj\Release\AttLogs.vbproj.GenerateResource.Cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\obj\Release\AttLogs.TrustInfo.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\obj\Release\AttLogs.exe.manifest
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\obj\Release\AttLogs.application
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\obj\Release\AttLogs.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\obj\Release\AttLogs.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\AttLogs\obj\Release\AttLogs.pdb

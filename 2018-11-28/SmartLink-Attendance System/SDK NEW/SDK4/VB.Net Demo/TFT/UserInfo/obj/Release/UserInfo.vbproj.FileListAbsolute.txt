@@ -1,0 +1,12 @@
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\obj\Release\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\obj\Release\UserInfo.vbproj.ResolveComReference.cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\bin\Release\UserInfo.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\bin\Release\UserInfo.pdb
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\bin\Release\UserInfo.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\bin\Release\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\obj\Release\UserInfo.UserInfo.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\obj\Release\UserInfo.Resources.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\obj\Release\UserInfo.vbproj.GenerateResource.Cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\obj\Release\UserInfo.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\obj\Release\UserInfo.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\UserInfo\obj\Release\UserInfo.pdb

@@ -1,0 +1,13 @@
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\obj\Release\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\obj\Release\OnlineEnroll.vbproj.ResolveComReference.cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\bin\Release\OnlineEnroll.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\bin\Release\OnlineEnroll.pdb
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\bin\Release\OnlineEnroll.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\bin\Release\Interop.zkemkeeper.dll
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\obj\Release\OnlineEnroll.vbprojResolveAssemblyReference.cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\obj\Release\OnlineEnroll.OnEnrollMain.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\obj\Release\OnlineEnroll.Resources.resources
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\obj\Release\OnlineEnroll.vbproj.GenerateResource.Cache
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\obj\Release\OnlineEnroll.exe
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\obj\Release\OnlineEnroll.xml
+D:\WORK\PT GIAT\Smart Link System\SDK NEW\SDK4\VB.Net Demo\TFT\OnlineEnroll\obj\Release\OnlineEnroll.pdb
